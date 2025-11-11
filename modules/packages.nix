@@ -208,6 +208,38 @@
     vlc
     kitty
     wezterm
+    qbittorrent
+    docker
+    docker-compose
+    bun
+    pnpm
+    postgresql
+    sqlite
+    duckdb
+    mariadb
+    rustc
+    cargo
+    rustfmt
+    rust-analyzer
+    clippy
+    cargo-watch
+    cargo-audit
+    lld
+    mold
+    ninja
+    meson
+    telegram-desktop
+    texmaker
+    go
+    zlib
+    yarn
+    typescript
+    eslint
+    prettier
+    tailwindcss
+    gh
+    vercel-cli
+    zip
   ];
 
 }
